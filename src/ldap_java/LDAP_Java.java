@@ -13,7 +13,7 @@ import javax.naming.directory.DirContext;
 import javax.naming.directory.InitialDirContext;
 /**
  *
- * @author andreh3037_00
+ * @author andreh
  */
 public class LDAP_Java {
 
